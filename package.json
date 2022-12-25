@@ -1,0 +1,23 @@
+{
+  "name": "outwize",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antongenis/outwize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antongenis/outwize/issues"
+  },
+  "homepage": "https://github.com/antongenis/outwize#readme"
+}
